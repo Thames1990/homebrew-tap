@@ -1,9 +1,11 @@
 # Homebrew tap
 
-This public tap hosts the versioned dinky-notify formula and release artifacts.
+This public tap hosts the MacNotif formula and its versioned release artifacts.
 
-After the first tagged release, install with:
+## Install
+
+MacNotif requires macOS Sequoia or later. Install it with:
 
 ```sh
-brew install Thames1990/tap/dinky-notify
+brew install Thames1990/tap/macnotif
 ```
